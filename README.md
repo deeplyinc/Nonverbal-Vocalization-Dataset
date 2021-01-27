@@ -5,7 +5,7 @@ The Vocal Characterizer Dataset is <u>*__a human nonverbal vocal sound dataset__
 
   **Device** | **Android phones** |
   :-:|:-:|
-  **Volume(Sample)** | **\~ 57(~ 0.6) hours, ~ 70,000(~ 800) utterances,<br /> ~ 18(~ 0.1) GB, ~ 1500(~ 500) speakers** |
+  **Volume(Sample)** | **\~ 57(~ 0.6) hours, ~ 70,000(~ 800) utterances, ~ 18(~ 0.1) GB, ~ 1500(~ 500) speakers** |
   **Format** | **wav/h5(16/44.1kHz, 16-bit, mono)** |
 
 
