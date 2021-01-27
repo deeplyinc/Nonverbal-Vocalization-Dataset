@@ -17,14 +17,14 @@ The dataset is a subset(approximately 5%) of a much bigger dataset which were re
 The illustrations below are the statistics about the Deeply Vocal Characterizer dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
 
 <p float="left">
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig0.png" width="500" />
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig1.png" width="500" /> 
+  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig0.png" width="400" />
+  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig1.png" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig2.png" width="500" />
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig3.png" width="500" /> 
+  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig2.png" width="400" />
+  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig3.png" width="400" /> 
 </p>
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig4.png" width="1000" /> 
+  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig4.png" width="800" /> 
 
 ## Structure
 ```
