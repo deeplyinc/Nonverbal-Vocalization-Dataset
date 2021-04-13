@@ -1,7 +1,7 @@
-# Deeply Vocal Characterizer Dataset
+# Deeply Nonverbal Vocalization Dataset
 ---
 ## Summary
-The Vocal Characterizer Dataset is <u>*__a human nonverbal vocal sound dataset__*</u> consisting of <u>*__56.7 hours__*</u> of short clips from <u>*__1419 speakers__*</u>, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. 16 classes of Included human nonverbal sound contain <u>*__‘teeth-chattering’, ‘teeth-grinding’, ‘tongue-clicking’, ‘nose-blowing’, ‘coughing’, ‘yawning’, ‘throat clearing’, ‘sighing’, ‘lip-popping’, ‘lip-smacking’, ‘panting’, ’crying’, ‘laughing’, ‘sneezing’, ‘moaning’, and ‘screaming’.__*</u>
+The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound dataset__*</u> consisting of <u>*__56.7 hours__*</u> of short clips from <u>*__1419 speakers__*</u>, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. 16 classes of Included human nonverbal sound contain <u>*__‘teeth-chattering’, ‘teeth-grinding’, ‘tongue-clicking’, ‘nose-blowing’, ‘coughing’, ‘yawning’, ‘throat clearing’, ‘sighing’, ‘lip-popping’, ‘lip-smacking’, ‘panting’, ’crying’, ‘laughing’, ‘sneezing’, ‘moaning’, and ‘screaming’.__*</u>
 
   **Device** | **Android phones** |
   :-:|:-:|
@@ -14,17 +14,17 @@ Refer to the dataset descriptions in 'docs' for detailed description and statist
 The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source datasets. Please contact us(contact@deeplyinc.com) for the full set with the commercial license.
 
 ## Dataset statistics
-The illustrations below are the statistics about the Deeply Vocal Characterizer dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
+The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
 
 <p float="left">
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig0.png" width="400" />
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig1.png" width="400" /> 
+  <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig0.png" width="400" />
+  <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig1.png" width="400" /> 
 </p>
 <p float="left">
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig2.png" width="400" />
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig3.png" width="400" /> 
+  <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig2.png" width="400" />
+  <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig3.png" width="400" /> 
 </p>
-  <img src="https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/fig4.png" width="800" /> 
+  <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig4.png" width="800" /> 
 
 ## Structure
 ```
@@ -77,7 +77,7 @@ Noise: {0: ‘Noiseless’, 1: ‘Noisy’}
 
 ## License
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
-![Vue](https://github.com/deeplyinc/Vocal-Characterizer-Dataset/blob/main/etc/by-nc-nd.png)
+![Vue](https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/by-nc-nd.png)
 
 ## Contact
 Tel:   (+82) 70-7459-0704  
