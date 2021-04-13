@@ -29,7 +29,7 @@ The illustrations below are the statistics about the Deeply Nonverbal Vocalizati
 ## Structure
 ```
 ├── dataset
-│   ├── Vocal_Characterizer_metadata.json
+│   ├── Nonverbal_Vocalization_metadata.json
 │   ├── coughing
 │   │   ├── 0C1S_4_8_0_27_0_1_1.wav
 │   │   ├── ...
@@ -45,12 +45,12 @@ The illustrations below are the statistics about the Deeply Nonverbal Vocalizati
 │       ├── 0DYI_5_10_1_12_0_1_0.wav
 │       ├── ...
 └── docs
-    ├── Deeply\ Vocal\ Characterizer\ Dataset\ description_Eng.pdf
-    └── Deeply\ Vocal\ Characterizer\ Dataset\ description_Kor.pdf
+    ├── Deeply\ Nonverbal\ Vocalization\ Dataset\ description_Eng.pdf
+    └── Deeply\ Nonverbal\ Vocalization\ Dataset\ description_Kor.pdf
 ```
 
 ```
-Vocal_Characterizer_metadata.json
+Nonverbal_Vocalization_metadata.json
 {
     'LAA7': {'sex': 'Male',
     'age': 22,
