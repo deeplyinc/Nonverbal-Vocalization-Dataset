@@ -11,7 +11,7 @@ The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound datase
 
 Refer to the dataset descriptions in 'docs' for detailed description and statistics of the full set of the dataset.
 
-The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source datasets. Please contact us(contact@deeplyinc.com) for the full set with the commercial license.
+The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the full set with the academic/commercial license.
 
 ## Dataset statistics
 The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
