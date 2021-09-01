@@ -79,12 +79,12 @@ Noise: {0: ‘Noiseless’, 1: ‘Noisy’}
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 ![Vue](https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/by-nc-nd.png)
 
-## Other Deeply dataset
+## Other Deeply datasets
 * **[Deeply Korean Read Speech Corpus](https://github.com/deeplyinc/Korean-Read-Speech-Corpus)**
   - Pairs of Korean reading the scripts with 3 text sentiments using 3 vocal sentiments. Recorded in 3 types of places, at 3 distinct distances, with 2 types of smartphone.
 * **[Deeply Parent-Child Vocal Interaction Dataset](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset)**
   - The interaction of pairs of parent and child(reading fairy tales, singing children’s songs, conversing, and others).Recorded in 3 types of places, at 3 distinct distances, with 2 types of smartphone.
-  
+
 ## Contact
 Tel:   (+82) 70-7459-0704  
 Web:   http://deeplyinc.com/  
