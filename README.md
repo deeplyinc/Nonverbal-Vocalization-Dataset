@@ -13,6 +13,8 @@ Refer to the dataset descriptions in 'docs' for detailed description and statist
 
 The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
 
+**[Click here to download sample](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
+
 ## Dataset statistics
 The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
 
