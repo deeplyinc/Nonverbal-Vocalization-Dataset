@@ -14,11 +14,12 @@ Refer to the dataset descriptions in 'docs' for detailed description and statist
 The sample audio data is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
 
 ### Feature Nonverbal Sound
-* __Cough Sound__
-* __Scream Sound__
-* __Sigh Sound__
-* __Sneeze Sound__
-* __And 12 more Sound__
+* __Coughing Sound__
+* __Crying Sound__
+* __Screaming Sound__
+* __Moaning Sound__
+* __Laughing Sound__
+* __And 11 more Sound!__
 
 **[Click here to download sample](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
 
