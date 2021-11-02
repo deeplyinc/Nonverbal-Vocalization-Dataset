@@ -1,7 +1,7 @@
 # Deeply Nonverbal Vocalization Dataset
 ---
 ## Summary
-The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound dataset(a.k.a. vocal characterizer)__*</u> consisting of <u>*__56.7 hours__*</u> of short clips from <u>*__1419 speakers__*</u>, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. 16 classes of Included human nonverbal sound contain <u>*__‘teeth-chattering’, ‘teeth-grinding’, ‘tongue-clicking’, ‘nose-blowing’, ‘coughing’, ‘yawning’, ‘throat clearing’, ‘sighing’, ‘lip-popping’, ‘lip-smacking’, ‘panting’, ’crying’, ‘laughing’, ‘sneezing’, ‘moaning’, and ‘screaming’.__*</u>
+The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound dataset(a.k.a. vocal characterizer)__*</u> consisting of <u>*__56.7 hours__*</u> of short clips from <u>*__1419 speakers__*</u>, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. 16 classes of Included human nonverbal sound data contain <u>*__‘teeth-chattering’, ‘teeth-grinding’, ‘tongue-clicking’, ‘nose-blowing’, ‘coughing’, ‘yawning’, ‘throat clearing’, ‘sighing’, ‘lip-popping’, ‘lip-smacking’, ‘panting’, ’crying’, ‘laughing’, ‘sneezing’, ‘moaning’, and ‘screaming’.__*</u>
 
   **Device** | **Android phones** |
   :-:|:-:|
@@ -11,12 +11,19 @@ The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound datase
 
 Refer to the dataset descriptions in 'docs' for detailed description and statistics of the full set of the dataset.
 
-The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
+The sample audio data is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
+
+### Feature Nonverbal Sound
+* __Cough Sound__
+* __Scream Sound__
+* __Sigh Sound__
+* __Sneeze Sound__
+* __And 12 more Sound__
 
 **[Click here to download sample](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
 
 ## Dataset statistics
-The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
+The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample audio data, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
 
 <p float="left">
   <img src="https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset/blob/main/etc/fig0.png" width="400" />
