@@ -15,7 +15,9 @@ The sample audio data is a subset(approximately 1%) of a much bigger dataset whi
 
 ### Feature Nonverbal Sound
 * __Coughing Sound__
-[coughing sample data](https://soundcloud.com/hongseok-oh-313429146/coughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=5fbc137e8d2d4658a0d1ec8caa99a742)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1160755690&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hongseok-oh-313429146" title="Hongseok Oh" target="_blank" style="color: #cccccc; text-decoration: none;">Hongseok Oh</a> · <a href="https://soundcloud.com/hongseok-oh-313429146/coughing-sample" title="Coughing Sample" target="_blank" style="color: #cccccc; text-decoration: none;">Coughing Sample</a></div>
+
 * __Crying Sound__
 * __Screaming Sound__
 * __Moaning Sound__
