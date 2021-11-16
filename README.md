@@ -13,7 +13,7 @@ Refer to the dataset descriptions in 'docs' for detailed description and statist
 
 The sample audio data is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
 
-### Feature Nonverbal Sound
+### Featured Nonverbal Sound
 * __Coughing Sound__ [[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/coughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=4bb535b174e84a9686383d743dac607b)]
 * __Crying Sound__ [[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/crying-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=840a34f0c71d459d8ccf62d589cab8fd)]
 * __Screaming Sound__ [[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/screaming-sample-1?in=hongseok-oh-313429146/sets/nonverbal-sound&si=ea3dfab205fd4225ad046ea94046449b)]
