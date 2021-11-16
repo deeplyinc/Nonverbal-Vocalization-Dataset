@@ -15,11 +15,15 @@ The sample audio data is a subset(approximately 1%) of a much bigger dataset whi
 
 ### Feature Nonverbal Sound
 * __Coughing Sound__
-[coughing sample data](dataset/coughing/2AV8_4_9_0_44_0_0_0.wav)
+https://user-images.githubusercontent.com/49251855/141922222-ddc5dcda-9ed9-45dd-bf29-7206ff8573ee.mov
 * __Crying Sound__
+https://user-images.githubusercontent.com/49251855/141922259-4ccb9de7-3fc4-41ee-8440-e75736ecb4ec.mov
 * __Screaming Sound__
+https://user-images.githubusercontent.com/49251855/141922281-854edd08-241f-4e0d-9ef5-0aaf9d2c9d47.mov
 * __Moaning Sound__
+https://user-images.githubusercontent.com/49251855/141922300-4900ceb5-0fc7-48a8-aca2-e0fb1415c26f.mov
 * __Laughing Sound__
+https://user-images.githubusercontent.com/49251855/141922313-455bb7f9-00dd-40cf-a153-dfa92f9aa44a.mov
 * __And 11 more Sound!__
 
 **[Click here to download sample](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
