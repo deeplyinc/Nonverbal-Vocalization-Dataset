@@ -15,11 +15,7 @@ The sample audio data is a subset(approximately 1%) of a much bigger dataset whi
 
 ### Feature Nonverbal Sound
 * __Coughing Sound__
-
-
-https://user-images.githubusercontent.com/49251855/141922372-43fb116e-9756-4ea1-acac-71b2172117f6.mov
-
-
+[coughing sample data](https://soundcloud.com/hongseok-oh-313429146/coughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=5fbc137e8d2d4658a0d1ec8caa99a742)
 * __Crying Sound__
 * __Screaming Sound__
 * __Moaning Sound__
