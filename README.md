@@ -14,14 +14,11 @@ Refer to the dataset descriptions in 'docs' for detailed description and statist
 The sample audio data is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source samples. Please contact us(contact@deeplyinc.com) for the pricing and licensing.
 
 ### Feature Nonverbal Sound
-* __Coughing Sound__
-
-[a](https://soundcloud.com/hongseok-oh-313429146/coughing-sample?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fhongseok-oh-313429146%252Fcoughing-sample)
-
-* __Crying Sound__
-* __Screaming Sound__
-* __Moaning Sound__
-* __Laughing Sound__
+* __Coughing Sound__[[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/coughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=4bb535b174e84a9686383d743dac607b)]
+* __Crying Sound__[[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/crying-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=840a34f0c71d459d8ccf62d589cab8fd)]
+* __Screaming Sound__[[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/screaming-sample-1?in=hongseok-oh-313429146/sets/nonverbal-sound&si=ea3dfab205fd4225ad046ea94046449b)]
+* __Moaning Sound__[[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/moaning-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=c338cb26c13d49e197ee545b62bb8a24)]
+* __Laughing Sound__[[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/laughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=01b7d2c9eac64cb1acd99f9e236391b2)]
 * __And 11 more Sound!__
 
 **[Click here to download sample](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
