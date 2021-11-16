@@ -1,7 +1,6 @@
 # Deeply Nonverbal Vocalization Data
 Contact for any inquiries 
 Email: contact@deeplyinc.com | Web: http://deeplyinc.com/ | Tel: (+82) 70-7459-0704
----
 ## Summary
 The Nonverbal Vocalization Dataset is <u>*__a human nonverbal vocal sound dataset(a.k.a. vocal characterizer)__*</u> consisting of <u>*__56.7 hours__*</u> of short clips from <u>*__1419 speakers__*</u>, crowdsourced by the general public in South Korea. Also, the dataset includes metadata such as age, sex, noise level, and quality of utterance. 16 classes of Included human nonverbal sound data contain <u>*__‘teeth-chattering’, ‘teeth-grinding’, ‘tongue-clicking’, ‘nose-blowing’, ‘coughing’, ‘yawning’, ‘throat clearing’, ‘sighing’, ‘lip-popping’, ‘lip-smacking’, ‘panting’, ’crying’, ‘laughing’, ‘sneezing’, ‘moaning’, and ‘screaming’.__*</u>
 
