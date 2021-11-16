@@ -21,7 +21,7 @@ The sample audio data is a subset(approximately 1%) of a much bigger dataset whi
 * __Laughing Sound__ [[sample sound on soundcloud](https://soundcloud.com/hongseok-oh-313429146/laughing-sample?in=hongseok-oh-313429146/sets/nonverbal-sound&si=01b7d2c9eac64cb1acd99f9e236391b2)]
 * __And 11 more Sound!__
 
-**[Click here to download sample data](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
+**[Click here to download entire sample data](https://www.openslr.org/resources/99/NonverbalVocalization.tgz)**
 
 ## Dataset statistics
 The illustrations below are the statistics about the Deeply Nonverbal Vocalization dataset. The first two are from the sample audio data, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs'.
